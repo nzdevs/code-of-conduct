@@ -1,26 +1,25 @@
-# DevOps NZ Code of Conduct
+# NZ Devs Code of Conduct
 
 ## Shorter version
 
-DevOps NZ is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual
-orientation, disability, physical appearance, body size, race, or religion.
+NZ Devs is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion.
 We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all DevOps NZ spaces, including Slack community, events and projects; both online and off.
-Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the DevOps NZ Admins.
+This code of conduct applies to all NZ Devs spaces, including Slack community, events and projects; both online and off.
+Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the NZ Devs Admins.
 
-Some DevOps NZ spaces may have additional rules in place, which will be made clearly available to participants.
+Some NZ Devs spaces may have additional rules in place, which will be made clearly available to participants.
 Participants are responsible for knowing and abiding by these rules.
 
 ## Longer version
 
-DevOps NZ is dedicated to providing a harassment-free experience for everyone.
+NZ Devs is dedicated to providing a harassment-free experience for everyone.
 We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all DevOps NZ spaces, including Slack group, events and projects; both online and off.
-Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the DevOps NZ Admins.
+This code of conduct applies to all NZ Devs spaces, including Slack group, events and projects; both online and off.
+Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the NZ Devs Admins.
 
-Some DevOps NZ spaces may have additional rules in place, which will be made clearly available to participants.
+Some NZ Devs spaces may have additional rules in place, which will be made clearly available to participants.
 Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes, but is not limited to:
@@ -46,8 +45,8 @@ Harassment includes, but is not limited to:
   intentional abuse.
 * Publication of non-harassing private communication.
 
-DevOps NZ prioritises marginalised people's safety over privileged people's comfort.
-DevOps NZ Admins will not act on complaints regarding:
+NZ Devs prioritises marginalised people's safety over privileged people's comfort.
+NZ Devs Admins will not act on complaints regarding:
 
 * "Reverse" -isms, including "reverse racism", "reverse sexism", and "cisphobia"
 * Reasonable communication of boundaries, such as "Leave me alone", "Go away", or "I'm not discussing this with you."
@@ -56,19 +55,19 @@ DevOps NZ Admins will not act on complaints regarding:
 
 ## Reporting
 
-If you are being harassed by a member of DevOps NZ, notice that someone else is being harassed, or have any other concerns, please contact
-one of the DevOps NZ Admins members on Slack by private message.
+If you are being harassed by a member of NZ Devs, notice that someone else is being harassed, or have any other concerns, please contact
+one of the NZ Devs Admins members on Slack by private message.
 The current Admins list can be found [here](./admins.md).
 
 If the person who is harassing you is on the team, they will recuse themselves from handling your incident.
 We will respond as promptly as we can.
 
-This code of conduct applies to DevOps NZ spaces, but if you are being harassed by a member of DevOps NZ outside our spaces, we still want
+This code of conduct applies to NZ Devs spaces, but if you are being harassed by a member of NZ Devs outside our spaces, we still want
 to know about it.
-We will take all good-faith reports of harassment by DevOps NZ members, especially the Admins, seriously.
+We will take all good-faith reports of harassment by NZ Devs members, especially the Admins, seriously.
 This includes harassment outside our spaces and harassment that took place at any point in time.
-The abuse team reserves the right to exclude people from DevOps NZ based on their past behavior, including behavior outside DevOps NZ spaces
-and behavior towards people who are not in DevOps NZ.
+The abuse team reserves the right to exclude people from NZ Devs based on their past behavior, including behavior outside NZ Devs spaces
+and behavior towards people who are not in NZ Devs.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith.
 Reports intended to silence legitimate criticism may be deleted without response.
@@ -82,5 +81,5 @@ We will not name harassment victims without their affirmative consent.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, DevOps NZ Admins may take any action they deem appropriate, up to and including expulsion
-from all DevOps NZ spaces and identification of the participant as a harasser to other DevOps NZ members or the general public.
+If a participant engages in harassing behavior, NZ Devs Admins may take any action they deem appropriate, up to and including expulsion
+from all NZ Devs spaces and identification of the participant as a harasser to other NZ Devs members or the general public.
