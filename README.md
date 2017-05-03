@@ -1,4 +1,4 @@
-# DevOps NZ Code of Conduct
+# NZ Devs Code of Conduct
 
 This code of conduct, or appropriate variations of it, applies to the NZDevs Slack community
 (http://nzdevs.slack.com).
